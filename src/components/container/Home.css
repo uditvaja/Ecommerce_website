@@ -1,0 +1,35 @@
+.slider-head {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.slider-head p {
+    font-size: 55px;
+    font-weight: 700;
+    color: blue;
+}
+
+.course__title {
+    line-height: 2rem;
+}
+
+.course__top__left h2 {
+    font-weight: 700;
+    font-size: 34px;
+    color: #000;
+    text-align: center;
+    align-items: center;
+}
+
+.course__top__left p {
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #f16126;
+    font-weight: 500;
+     -webkit-transform: translateY(-8px);
+     -ms-transform: translateY(-8px);
+     transform: translateY(-8px);
+}
+
